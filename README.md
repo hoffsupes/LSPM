@@ -10,11 +10,8 @@ Takes any corpus / text file with sentences in every line and extracts causal se
 - Clone this repo or download it as a zip file
 - Unzip it and traverse into the root of this repository
 - Open a terminal and execute the following:
-    - `pip3 install -r requirements.txt`
-
-    OR
-
     - `python3 crelib/setup_script.py`
+    - 'python3 -c 'import nltk; nltk.download('popular')'
 - input your credentials into the config.py in the crelib folder
 
 ## Demo
