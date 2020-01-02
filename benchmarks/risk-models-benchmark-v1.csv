@@ -1,0 +1,804 @@
+new competitors [2],increasing profits for our clients [13],causal
+new competitors [2],"increased speed efficiency, and lower cost [11]",causal
+"increased speed efficiency, and lower cost [11]",increasing profits for our clients [13],causal
+"increased speed efficiency, and lower cost [11]",increasing profits for our clients [13],causal
+changing market driving the needs for new business model [15],increased importance of bundling products [16],causal
+increased dependency on devices (e.g. IoT) [18],increased risk of cyber attacks [19],causal
+increased risk of cyber attacks [19],increase in data privacy regulations [20],causal
+currency appreciation against US dollar [22],higher revenue for multinational companies [23],causal
+currency appreciation against US dollar [22],lower demand for USD [25],causal
+currency appreciation against US dollar [22],low price levels of goods and services [26],causal
+currency appreciation against US dollar [22],low inflation [27],causal
+currency appreciation against US dollar [22],decreasing trade deficit or increasing surplus [28],causal
+currency appreciation against US dollar [22],exchange outlook is positive [29],causal
+currency appreciation against US dollar [22],improved competitiveness [30],causal
+currency appreciation against US dollar [22],increased foreign direct investment [31],causal
+currency appreciation against US dollar [22],minimum or no black market FX rate [383],causal
+currency appreciation against US dollar [22],higher international reserves [384],causal
+currency appreciation against US dollar [22],strengthening economic environment [58],causal
+currency appreciation against US dollar [22],cheaper FX rate benefits net importer country [32],causal
+cheaper FX rate benefits net importer country [32],decrease in price of commodity [91],causal
+currency appreciation against US dollar [22],disadvantaged FX rate hurts net exporter country [36],causal
+disadvantaged FX rate hurts net exporter country [36],local business motivated to cut cost to be more competitive on global market [387],causal
+disadvantaged FX rate hurts net exporter country [36],promote local business [240],causal
+currency appreciation against US dollar [22],local corporations purchasing power increase [335],causal
+currency appreciation against US dollar [22],decrease in taxes [102],causal
+currency depreciation against US dollar [39],outpaced currency black market exchange rate [40],causal
+currency depreciation against US dollar [39],high inflation [41],causal
+currency depreciation against US dollar [39],exchange rate outlook is negative [42],causal
+currency depreciation against US dollar [39],lower revenue for multinational companies [43],causal
+currency depreciation against US dollar [39],increasing trade deficit [45],causal
+currency depreciation against US dollar [39],lower international reserves to GDP ratio [46],causal
+currency depreciation against US dollar [39],increasing debt levels [47],causal
+currency depreciation against US dollar [39],higher demand for USD [48],causal
+currency depreciation against US dollar [39],lower international reserves [393],causal
+currency depreciation against US dollar [39],weakening economic environment [309],causal
+currency depreciation against US dollar [39],competitive FX rate benefits net exporter country [49],causal
+competitive FX rate benefits net exporter country [49],decrease in price of commodity [91],causal
+currency depreciation against US dollar [39],capital controls (currency volatility) [52],causal
+capital controls (currency volatility) [52],controls to repatriate cash [53],causal
+currency depreciation against US dollar [39],disadvantaged FX rate hurts net importer country [396],causal
+disadvantaged FX rate hurts net importer country [396],increase in price of commodity [214],causal
+currency depreciation against US dollar [39],increase in taxes [181],causal
+decreased local protectionism [118],looser capital controls [60],causal
+looser capital controls [60],less government protection and funding of domestic firms [119],causal
+less government protection and funding of domestic firms [119],allows for a fair playing ground for all firms [120],causal
+looser capital controls [60],reduced regulations and production quotas on commodities [122],causal
+reduced regulations and production quotas on commodities [122],decrease in price of commodity [91],causal
+looser capital controls [60],reduced risk of net exposed position and local currency deals [343],causal
+decreased local protectionism [118],decreased tariffs on foreign firms [124],causal
+decreased tariffs on foreign firms [124],increased foreign direct investment [31],causal
+increased foreign direct investment [31],strengthening economic environment [58],causal
+increased foreign direct investment [31],more startups and new businesses [126],causal
+decreased local protectionism [118],increased programs in support of international trade [127],causal
+decreased local protectionism [118],lower unemployment rates [180],causal
+decreased local protectionism [118],lagging behind in technological wave [130],causal
+decreased local protectionism [118],government trying to stimulate economy [90],causal
+decreased local protectionism [118],strengthening economic environment [58],causal
+decreased local protectionism [118],increase in price of commodity [214],causal
+decreased local protectionism [118],IT market expansion [345],causal
+decreased local protectionism [118],IT niche competitors operation offshore [348],causal
+decreased local protectionism [118],decrease in data privacy regulations [297],causal
+decreased local protectionism [118],decrease in taxes [102],causal
+decrease in corruption [59],looser capital controls [60],causal
+looser capital controls [60],increased foreign direct investment [31],causal
+increased foreign direct investment [31],strengthening economic environment [58],causal
+looser capital controls [60],easy to repatriate cash [62],causal
+decrease in corruption [59],increasing government and political stability [64],causal
+decrease in corruption [59],decrease in possibility of FCPA violation [65],causal
+decrease in corruption [59],increased government IT spending [332],causal
+decrease in corruption [59],fair allocation of government budget [68],causal
+decrease in corruption [59],fair justice system [69],causal
+decrease in corruption [59],growing respect for authority [70],causal
+decrease in corruption [59],favorable official(political figurehead) or party elected [262],causal
+decrease in corruption [59],favorable law passed [72],causal
+decrease in corruption [59],increased investor and consumer confidence [73],causal
+increased investor and consumer confidence [73],strengthening economic environment [58],causal
+decrease in corruption [59],"increase in government spending (infrastructure, education, public benefits) [75]",causal
+"increase in government spending (infrastructure, education, public benefits) [75]",improving social order [76],causal
+"increase in government spending (infrastructure, education, public benefits) [75]",increased talent in workforce [77],causal
+decrease in data privacy regulations [297],untapped market for data providers to enter [80],causal
+untapped market for data providers to enter [80],increased competition [166],causal
+untapped market for data providers to enter [80],offshore services become advantageous [82],causal
+offshore services become advantageous [82],able to analyze market and consumers better [83],causal
+decrease in data privacy regulations [297],decreased foreign direct investment [88],causal
+decrease in data privacy regulations [297],unable to stay competitive globally [89],causal
+decrease in data privacy regulations [297],government trying to stimulate economy [90],causal
+decrease in data privacy regulations [297],disruptive technologies [152],causal
+decrease in data privacy regulations [297],decreased local protectionism [118],causal
+decrease in data privacy regulations [297],market disruptors [168],causal
+decrease in price of commodity [91],reduced demand for commodity [92],causal
+decrease in price of commodity [91],regulators agreement to raise the group's production quota [93],causal
+decrease in price of commodity [91],substituting or adjacent industries prevailing [94],causal
+decrease in price of commodity [91],increased supplier competition around commodity [95],causal
+decrease in price of commodity [91],decreased cost of transportation (oil) [96],causal
+decreased cost of transportation (oil) [96],decreased cost of doing business [97],causal
+decrease in price of commodity [91],more effective and less expensive methods or techniques for getting commodity [99],causal
+decrease in price of commodity [91],currency appreciation against US dollar [22],causal
+decrease in price of commodity [91],strengthening economic environment [58],causal
+decrease in price of commodity [91],higher profits for local and multinational businesses [100],causal
+higher profits for local and multinational businesses [100],decreased cost of doing business [97],causal
+decrease in price of commodity [91],weakening economic environment [309],causal
+decrease in price of commodity [91],lower profits for local and multinational businesses [101],causal
+decrease in price of commodity [91],increase in taxes [181],causal
+decrease in price of commodity [91],improving social order [76],causal
+decrease in taxes [102],growing social tension [103],causal
+decrease in taxes [102],conservative politician elected [104],causal
+decrease in taxes [102],government trying to stimulate economy [90],causal
+decrease in taxes [102],prolonged economic decline (recession) [106],causal
+decrease in taxes [102],decreasing debt levels [107],causal
+decrease in taxes [102],decrease in consumer and investor spending [108],causal
+decrease in taxes [102],decreasing government and political stability [131],causal
+decrease in taxes [102],increased motivation for entrepreneurs [109],causal
+increased motivation for entrepreneurs [109],increased innovative culture [110],causal
+increased innovative culture [110],new competitors [2],causal
+decrease in taxes [102],increase consumer spending [112],causal
+increase consumer spending [112],strengthening economic environment [58],causal
+increase consumer spending [112],increased revenue for businesses [113],causal
+decrease in taxes [102],"decrease in government spending (infrastructure, education, public benefits) [114]",causal
+"decrease in government spending (infrastructure, education, public benefits) [114]",growing social tension [103],causal
+"decrease in government spending (infrastructure, education, public benefits) [114]",decreased talent in workforce [115],causal
+decrease in taxes [102],decreased tariffs on foreign firms [124],causal
+decreased tariffs on foreign firms [124],increased cost of doing business [220],causal
+decrease in taxes [102],disruptive technologies [152],causal
+decrease in taxes [102],market disruptors [168],causal
+decreasing government and political stability [131],unfair justice system [132],causal
+decreasing government and political stability [131],unfair allocation of government budget [133],causal
+decreasing government and political stability [131],unfavorable official(political figurehead) or party elected [134],causal
+decreasing government and political stability [131],unfavorable law passed [135],causal
+decreasing government and political stability [131],increase in corruption [136],causal
+decreasing government and political stability [131],increase in bribery [137],causal
+decreasing government and political stability [131],weakening economic environment [309],causal
+decreasing government and political stability [131],increase in taxes [181],causal
+decreasing government and political stability [131],"decrease in government spending (infrastructure, education, public benefits) [114]",causal
+"decrease in government spending (infrastructure, education, public benefits) [114]",growing social tension [103],causal
+"decrease in government spending (infrastructure, education, public benefits) [114]",decrease in taxes [102],causal
+"decrease in government spending (infrastructure, education, public benefits) [114]",decreased talent in workforce [115],causal
+"decrease in government spending (infrastructure, education, public benefits) [114]",reduction in business investment [138],causal
+reduction in business investment [138],weakening economic environment [309],causal
+"decrease in government spending (infrastructure, education, public benefits) [114]",decreased foreign direct investment [88],causal
+decreased foreign direct investment [88],weakening economic environment [309],causal
+decreasing government and political stability [131],weakening economic environment [309],causal
+decreasing government and political stability [131],growing social tension [103],causal
+decreasing government and political stability [131],currency depreciation against US dollar [39],causal
+decreasing government and political stability [131],increased local protectionism [239],causal
+disruptive technologies [152],change in consumer interest and needs [283],causal
+disruptive technologies [152],broadband Internet becoming more widely available [154],causal
+disruptive technologies [152],increase in innovative funding [155],causal
+increase in innovative funding [155],increased government IT spending [332],causal
+increase in innovative funding [155],IT industries funding local initiatives [352],causal
+disruptive technologies [152],commoditizing of specific technologies [157],causal
+disruptive technologies [152],technology products reducing in price [158],causal
+disruptive technologies [152],cost of connecting decreases [159],causal
+disruptive technologies [152],digital economies growing [160],causal
+disruptive technologies [152],decrease in data privacy regulations [297],causal
+disruptive technologies [152],decreased local protectionism [118],causal
+disruptive technologies [152],maturity of ecosystem and business partners [291],causal
+disruptive technologies [152],strengthening economic environment [58],causal
+disruptive technologies [152],increase in price of commodity [214],causal
+disruptive technologies [152],change in business strategy [161],causal
+disruptive technologies [152],increased competition [166],causal
+disruptive technologies [152],market disruptors [168],causal
+disruptive technologies [152],increases in dependability on devices [169],causal
+increases in dependability on devices [169],increases exposure to potential security threats [170],causal
+increases exposure to potential security threats [170],increase in data privacy regulations [20],causal
+disruptive technologies [152],increase in data privacy regulations [20],causal
+growing social tension [103],unfair justice system [132],causal
+growing social tension [103],"decrease in government spending (infrastructure, education, public benefits) [114]",causal
+growing social tension [103],unfavorable law passed [135],causal
+growing social tension [103],unfair allocation of government budget [133],causal
+growing social tension [103],excessive use of government forces for domestic control [326],causal
+growing social tension [103],rising unemployment rates [173],causal
+growing social tension [103],unfavorable official(political figurehead) or party elected [134],causal
+growing social tension [103],increase in corruption [136],causal
+growing social tension [103],decrease in price of commodity [91],causal
+growing social tension [103],increase in social expenditure [327],causal
+increase in social expenditure [327],increasing budget deficit [328],causal
+increasing budget deficit [328],increase in taxes [181],causal
+increasing budget deficit [328],increased interest rate [329],causal
+growing social tension [103],shrinking tax income [331],causal
+shrinking tax income [331],increasing budget deficit [328],causal
+increasing budget deficit [328],increase in taxes [181],causal
+increasing budget deficit [328],increased interest rate [329],causal
+growing social tension [103],reduced tourism [272],causal
+reduced tourism [272],increasing budget deficit [328],causal
+increasing budget deficit [328],increase in taxes [181],causal
+increasing budget deficit [328],increased interest rate [329],causal
+growing social tension [103],decreasing government and political stability [131],causal
+growing social tension [103],decreased investor and consumer confidence [198],causal
+decreased investor and consumer confidence [198],weakening economic environment [309],causal
+improving social order [76],fair justice system [69],causal
+improving social order [76],"increase in government spending (infrastructure, education, public benefits) [75]",causal
+improving social order [76],favorable law passed [72],causal
+improving social order [76],fair allocation of government budget [68],causal
+improving social order [76],decreased use of government forces for domestic control [320],causal
+improving social order [76],lower unemployment rates [180],causal
+improving social order [76],favorable official(political figurehead) or party elected [262],causal
+improving social order [76],decrease in corruption [59],causal
+improving social order [76],increase in price of commodity [214],causal
+improving social order [76],increased investor and consumer confidence [73],causal
+increased investor and consumer confidence [73],strengthening economic environment [58],causal
+improving social order [76],increasing government and political stability [64],causal
+improving social order [76],decrease in social expenditure [321],causal
+decrease in social expenditure [321],decreasing trade deficit or increasing surplus [28],causal
+decreasing trade deficit or increasing surplus [28],decrease in taxes [102],causal
+decreasing trade deficit or increasing surplus [28],decreased interest rate [322],causal
+improving social order [76],growing tax revenue [324],causal
+growing tax revenue [324],decreasing trade deficit or increasing surplus [28],causal
+decreasing trade deficit or increasing surplus [28],decrease in taxes [102],causal
+decreasing trade deficit or increasing surplus [28],decreased interest rate [322],causal
+improving social order [76],increase in tourism [371],causal
+increase in tourism [371],decreasing trade deficit or increasing surplus [28],causal
+decreasing trade deficit or increasing surplus [28],decrease in taxes [102],causal
+decreasing trade deficit or increasing surplus [28],decreased interest rate [322],causal
+increased local protectionism [239],increased capital controls [193],causal
+increased capital controls [193],promote local business [240],causal
+increased capital controls [193],protecting large declining or bankrupt industries [242],causal
+protecting large declining or bankrupt industries [242],regulations allow and support slow decline [243],causal
+increased capital controls [193],protecting infant industries [245],causal
+protecting infant industries [245],domestic firms have comparative advantage [246],causal
+increased local protectionism [239],increased tariffs on foreign firms [247],causal
+increased tariffs on foreign firms [247],decreased foreign direct investment [88],causal
+decreased foreign direct investment [88],weakening economic environment [309],causal
+decreased foreign direct investment [88],less startups and new businesses [248],causal
+increased local protectionism [239],strict environmental regulation [250],causal
+strict environmental regulation [250],restrictions to clients to expand their businesses infrastructure [252],causal
+increased local protectionism [239],higher demand for partnerships (joint ventures) [254],causal
+increased local protectionism [239],deter unfair competition [256],causal
+increased local protectionism [239],dumping by foreign firms at prices below cost [257],causal
+increased local protectionism [239],promote exports [258],causal
+increased local protectionism [239],over reliance on international trade [259],causal
+increased local protectionism [239],rising unemployment rates [173],causal
+increased local protectionism [239],self sufficiency to protect from being too exposed (global recession) [261],causal
+increased local protectionism [239],weakening economic environment [309],causal
+increased local protectionism [239],decrease in price of commodity [91],causal
+increased local protectionism [239],restriction to operate with resources from foreign countries [366],causal
+increased local protectionism [239],request positive balance of trade [368],causal
+increased local protectionism [239],increase in data privacy regulations [20],causal
+increased local protectionism [239],increase in taxes [181],causal
+increase in corruption [136],decreasing government and political stability [131],causal
+increase in corruption [136],increase in possibility of FCPA violation [189],causal
+increase in corruption [136],increased capital controls [193],causal
+increase in corruption [136],increase in bribery [137],causal
+increase in corruption [136],growing social tension [103],causal
+increase in corruption [136],unfair allocation of government budget [133],causal
+increase in corruption [136],drastic increase in taxes [194],causal
+increase in corruption [136],radical political party or official elected [195],causal
+increase in corruption [136],increasing debt levels [47],causal
+increase in corruption [136],lack of respect for authority [196],causal
+increase in corruption [136],uneven distribution of wealth [197],causal
+increase in corruption [136],decreased investor and consumer confidence [198],causal
+decreased investor and consumer confidence [198],weakening economic environment [309],causal
+increase in corruption [136],increased capital controls [193],causal
+increased capital controls [193],controls to repatriate cash [53],causal
+increased capital controls [193],decreased foreign direct investment [88],causal
+decreased foreign direct investment [88],weakening economic environment [309],causal
+increase in corruption [136],"decrease in government spending (infrastructure, education, public benefits) [114]",causal
+"decrease in government spending (infrastructure, education, public benefits) [114]",growing social tension [103],causal
+"decrease in government spending (infrastructure, education, public benefits) [114]",decreased talent in workforce [115],causal
+increase in data privacy regulations [20],increase cost of burden on multinational data providers [200],causal
+increase cost of burden on multinational data providers [200],clients and potential clients need help to comply with privacy [201],causal
+increase in data privacy regulations [20],increase ability for smaller domestic providers to become competitive [205],causal
+increase in data privacy regulations [20],market disruptors [168],causal
+increase in data privacy regulations [20],foreign data providers dominate market [208],causal
+increase in data privacy regulations [20],lack of consumer confidence in data providers [209],causal
+increase in data privacy regulations [20],increased cyber attacks [210],causal
+increase in data privacy regulations [20],increased threat of terrorism [211],causal
+increase in data privacy regulations [20],increase in personal identify theft attacks [212],causal
+increase in data privacy regulations [20],unfavorable uses of data by providers and businesses [213],causal
+increase in data privacy regulations [20],disruptive technologies [152],causal
+increase in data privacy regulations [20],increased local protectionism [239],causal
+increase in price of commodity [214],increased demand for commodity [215],causal
+increase in price of commodity [214],regulators agreement to reduce the production quota [216],causal
+increase in price of commodity [214],natural disaster reduces availability of commodity [217],causal
+increase in price of commodity [214],currency depreciation against US dollar [39],causal
+increase in price of commodity [214],increased cost of transportation (oil) [219],causal
+increased cost of transportation (oil) [219],increased cost of doing business [220],causal
+increase in price of commodity [214],potential innovation for substitute or less expensive product [222],causal
+increase in price of commodity [214],less profits for businesses [223],causal
+increase in price of commodity [214],weakening economic environment [309],causal
+increase in price of commodity [214],more profits for businesses [224],causal
+increase in price of commodity [214],strengthening economic environment [58],causal
+increase in price of commodity [214],decrease in taxes [102],causal
+increase in price of commodity [214],growing social tension [103],causal
+increase in taxes [181],prolonged economic growth (boom) [225],causal
+increase in taxes [181],country in state of war [226],causal
+increase in taxes [181],liberal politician or party elected [227],causal
+increase in taxes [181],call for new social programs [228],causal
+increase in taxes [181],increasing debt levels [47],causal
+increase in taxes [181],improving social order [76],causal
+increase in taxes [181],discouraged consumer and business behavior [229],causal
+discouraged consumer and business behavior [229],reduced income [230],causal
+reduced income [230],increase in unemployment [403],causal
+increase in unemployment [403],weakening economic environment [309],causal
+increase in taxes [181],increased motivation for businesses to outsource work [236],causal
+increased motivation for businesses to outsource work [236],higher unemployment rates for domestic unskilled workers [237],causal
+higher unemployment rates for domestic unskilled workers [237],weakening economic environment [309],causal
+increase in taxes [181],"increase in government spending (infrastructure, education, public benefits) [75]",causal
+"increase in government spending (infrastructure, education, public benefits) [75]",improving social order [76],causal
+"increase in government spending (infrastructure, education, public benefits) [75]",increased talent in workforce [77],causal
+increase in taxes [181],reduced tax incentives [404],causal
+reduced tax incentives [404],decrease in innovative culture [405],causal
+increase in taxes [181],increased tariffs on foreign firms [247],causal
+increase in taxes [181],disruptive technologies [152],causal
+increase in taxes [181],market disruptors [168],causal
+increasing government and political stability [64],fair justice system [69],causal
+increasing government and political stability [64],fair allocation of government budget [68],causal
+increasing government and political stability [64],favorable official(political figurehead) or party elected [262],causal
+increasing government and political stability [64],decrease in corruption [59],causal
+increasing government and political stability [64],favorable law passed [72],causal
+increasing government and political stability [64],decrease in taxes [102],causal
+increasing government and political stability [64],"increase in government spending (infrastructure, education, public benefits) [75]",causal
+"increase in government spending (infrastructure, education, public benefits) [75]",improving social order [76],causal
+"increase in government spending (infrastructure, education, public benefits) [75]",increase in taxes [181],causal
+"increase in government spending (infrastructure, education, public benefits) [75]",increased talent in workforce [77],causal
+"increase in government spending (infrastructure, education, public benefits) [75]",promote local business and foreign investment [263],causal
+promote local business and foreign investment [263],strengthening economic environment [58],causal
+increasing government and political stability [64],increase in tourism [371],causal
+increase in tourism [371],demand for more IT infrastructure [372],causal
+increasing government and political stability [64],strengthening economic environment [58],causal
+increasing government and political stability [64],improving social order [76],causal
+increasing government and political stability [64],currency appreciation against US dollar [22],causal
+increasing government and political stability [64],decreased local protectionism [118],causal
+market disruptors [168],change in consumer interest and needs [283],causal
+market disruptors [168],decrease in data privacy regulations [297],causal
+market disruptors [168],decreased local protectionism [118],causal
+market disruptors [168],disruptive technologies [152],causal
+market disruptors [168],increased ability to facilitate peer to peer transactions [285],causal
+market disruptors [168],maturity of ecosystem and business partners [291],causal
+market disruptors [168],strengthening economic environment [58],causal
+market disruptors [168],increase in price of commodity [214],causal
+market disruptors [168],increased competition [166],causal
+market disruptors [168],change in business strategy [161],causal
+market disruptors [168],increase in data privacy regulations [20],causal
+maturity of ecosystem and business partners [291],rapid technological change [292],causal
+rapid technological change [292],disruptive technologies [152],causal
+rapid technological change [292],"XaaS and digital platforms shorten distribution chain, connecting end users with main service and IT provider directly [378]",causal
+maturity of ecosystem and business partners [291],change in business strategy to meet a changing demand [296],causal
+maturity of ecosystem and business partners [291],disruptive technologies [152],causal
+maturity of ecosystem and business partners [291],decrease in data privacy regulations [297],causal
+maturity of ecosystem and business partners [291],increase in infrastructure in 3rd world countries [298],causal
+maturity of ecosystem and business partners [291],increase in innovative funding [155],causal
+increase in innovative funding [155],increased government IT spending [332],causal
+maturity of ecosystem and business partners [291],increasing number of IT players [299],causal
+maturity of ecosystem and business partners [291],increasing number of multinational players [300],causal
+maturity of ecosystem and business partners [291],increasing size of IT market [301],causal
+maturity of ecosystem and business partners [291],market disruptors [168],causal
+maturity of ecosystem and business partners [291],"government open to foreign IT support, regulations in place [379]",causal
+maturity of ecosystem and business partners [291],disruptive technologies [152],causal
+maturity of ecosystem and business partners [291],market disruptors [168],causal
+natural disasters [305],business or supplier disruption [306],causal
+business or supplier disruption [306],weakening economic environment [309],causal
+natural disasters [305],employee safety [311],causal
+employee safety [311],decreased business productivity [270],causal
+natural disasters [305],client disruption [313],causal
+client disruption [313],temporarily loss of business [314],causal
+natural disasters [305],increased irregular geological data [315],causal
+natural disasters [305],increased irregular weather data (patterns) [316],causal
+natural disasters [305],increase in movement of tectonic plates [317],causal
+natural disasters [305],increased irregular tide and current and wave data (patterns) [318],causal
+natural disasters [305],high geographic disaster exposure [319],causal
+strengthening economic environment [58],increased business investment and opportunity [179],causal
+increased business investment and opportunity [179],lower unemployment rates [180],causal
+lower unemployment rates [180],improving social order [76],causal
+increased business investment and opportunity [179],increased foreign talent immigration [360],causal
+strengthening economic environment [58],higher aggregate demand [182],causal
+strengthening economic environment [58],increased government spending [183],causal
+strengthening economic environment [58],lower unemployment rates [180],causal
+strengthening economic environment [58],increased foreign direct investment [31],causal
+strengthening economic environment [58],increase in tourism [371],causal
+strengthening economic environment [58],higher aggregate supply [184],causal
+strengthening economic environment [58],decreasing trade deficit or surplus [185],causal
+strengthening economic environment [58],increase consumer spending [112],causal
+strengthening economic environment [58],increase in investment by businesses [187],causal
+strengthening economic environment [58],currency appreciation against US dollar [22],causal
+strengthening economic environment [58],increase in price of commodity [214],causal
+strengthening economic environment [58],"increase in government spending (infrastructure, education, public benefits) [75]",causal
+"increase in government spending (infrastructure, education, public benefits) [75]",improving social order [76],causal
+"increase in government spending (infrastructure, education, public benefits) [75]",increased talent in workforce [77],causal
+"increase in government spending (infrastructure, education, public benefits) [75]",increase in taxes [181],causal
+strengthening economic environment [58],IT market expansion [345],causal
+strengthening economic environment [58],currency appreciation against US dollar [22],causal
+weakening economic environment [309],lack of business investment and opportunities [172],causal
+lack of business investment and opportunities [172],rising unemployment rates [173],causal
+rising unemployment rates [173],growing social tension [103],causal
+lack of business investment and opportunities [172],talent migrate to other countries [353],causal
+weakening economic environment [309],decrease in taxes [102],causal
+weakening economic environment [309],lower domestic demand [50],causal
+weakening economic environment [309],decreased government spending [174],causal
+weakening economic environment [309],rising unemployment rates [173],causal
+weakening economic environment [309],decreased foreign direct investment [88],causal
+weakening economic environment [309],decreased tourism [175],causal
+weakening economic environment [309],lower aggregate supply [176],causal
+weakening economic environment [309],decrease in consumer and investor spending [108],causal
+weakening economic environment [309],decreased investment by businesses [178],causal
+weakening economic environment [309],currency depreciation against US dollar [39],causal
+weakening economic environment [309],decrease in price of commodity [91],causal
+weakening economic environment [309],"decrease in government spending (infrastructure, education, public benefits) [114]",causal
+"decrease in government spending (infrastructure, education, public benefits) [114]",growing social tension [103],causal
+"decrease in government spending (infrastructure, education, public benefits) [114]",decreased talent in workforce [115],causal
+weakening economic environment [309],IT market deceleration or downsize [354],causal
+IT market deceleration or downsize [354],clients willing to adopt new platforms at better rates [358],causal
+weakening economic environment [309],currency depreciation against US dollar [39],causal
+increasing trade deficit [45],lower domestic demand [50],non_causal
+increase in data privacy regulations [20],client disruption [313],non_causal
+exchange outlook is positive [29],potential innovation for substitute or less expensive product [222],non_causal
+cost of connecting decreases [159],uneven distribution of wealth [197],non_causal
+increased revenue for businesses [113],country in state of war [226],non_causal
+higher aggregate supply [184],increase in corruption [136],non_causal
+increasing size of IT market [301],disadvantaged FX rate hurts net exporter country [36],non_causal
+temporarily loss of business [314],untapped market for data providers to enter [80],non_causal
+IT industries funding local initiatives [352],increased competition [166],non_causal
+higher unemployment rates for domestic unskilled workers [237],"XaaS and digital platforms shorten distribution chain, connecting end users with main service and IT provider directly [378]",non_causal
+temporarily loss of business [314],radical political party or official elected [195],non_causal
+lower demand for USD [25],increase in investment by businesses [187],non_causal
+broadband Internet becoming more widely available [154],currency depreciation against US dollar [39],non_causal
+increase in personal identify theft attacks [212],higher international reserves [384],non_causal
+promote exports [258],increase in corruption [136],non_causal
+low inflation [27],increases in dependability on devices [169],non_causal
+controls to repatriate cash [53],increase ability for smaller domestic providers to become competitive [205],non_causal
+promote exports [258],lack of respect for authority [196],non_causal
+increase in personal identify theft attacks [212],changing market driving the needs for new business model [15],non_causal
+allows for a fair playing ground for all firms [120],increase in possibility of FCPA violation [189],non_causal
+demand for more IT infrastructure [372],increase consumer spending [112],non_causal
+increasing size of IT market [301],decrease in corruption [59],non_causal
+decreased tariffs on foreign firms [124],currency depreciation against US dollar [39],non_causal
+increasing size of IT market [301],maturity of ecosystem and business partners [291],non_causal
+outpaced currency black market exchange rate [40],weakening economic environment [309],non_causal
+IT market expansion [345],unable to stay competitive globally [89],non_causal
+increasing government and political stability [64],less profits for businesses [223],non_causal
+increased dependency on devices (e.g. IoT) [18],reduced income [230],non_causal
+decreased tourism [175],lower international reserves to GDP ratio [46],non_causal
+increase in bribery [137],decreased use of government forces for domestic control [320],non_causal
+increased local protectionism [239],clients willing to adopt new platforms at better rates [358],non_causal
+reduction in business investment [138],increase in innovative funding [155],non_causal
+increases in dependability on devices [169],decrease in taxes [102],non_causal
+temporarily loss of business [314],changing market driving the needs for new business model [15],non_causal
+increased irregular geological data [315],competitive FX rate benefits net exporter country [49],non_causal
+dumping by foreign firms at prices below cost [257],increase in tourism [371],non_causal
+decreasing trade deficit or increasing surplus [28],IT niche competitors operation offshore [348],non_causal
+reduced demand for commodity [92],market disruptors [168],non_causal
+increase in innovative funding [155],drastic increase in taxes [194],non_causal
+increased irregular geological data [315],unfavorable law passed [135],non_causal
+decreased business productivity [270],increased demand for commodity [215],non_causal
+decreased use of government forces for domestic control [320],less government protection and funding of domestic firms [119],non_causal
+less startups and new businesses [248],natural disasters [305],non_causal
+increase in investment by businesses [187],decreased talent in workforce [115],non_causal
+fair allocation of government budget [68],decreased cost of transportation (oil) [96],non_causal
+promote local business and foreign investment [263],increased capital controls [193],non_causal
+disadvantaged FX rate hurts net importer country [396],increases in dependability on devices [169],non_causal
+reduced regulations and production quotas on commodities [122],disadvantaged FX rate hurts net importer country [396],non_causal
+lack of respect for authority [196],low inflation [27],non_causal
+natural disaster reduces availability of commodity [217],favorable official(political figurehead) or party elected [262],non_causal
+reduced tax incentives [404],lower revenue for multinational companies [43],non_causal
+increase in taxes [181],promote local business and foreign investment [263],non_causal
+restrictions to clients to expand their businesses infrastructure [252],substituting or adjacent industries prevailing [94],non_causal
+promote local business [240],substituting or adjacent industries prevailing [94],non_causal
+increased motivation for entrepreneurs [109],increased competition [166],non_causal
+increased government IT spending [332],lower aggregate supply [176],non_causal
+increase in personal identify theft attacks [212],unfavorable law passed [135],non_causal
+decreased government spending [174],outpaced currency black market exchange rate [40],non_causal
+unfavorable uses of data by providers and businesses [213],increased talent in workforce [77],non_causal
+call for new social programs [228],"increased speed efficiency, and lower cost [11]",non_causal
+decrease in data privacy regulations [297],reduced tax incentives [404],non_causal
+change in business strategy to meet a changing demand [296],increase in corruption [136],non_causal
+growing tax revenue [324],decrease in consumer and investor spending [108],non_causal
+increase in bribery [137],self sufficiency to protect from being too exposed (global recession) [261],non_causal
+increased risk of cyber attacks [19],offshore services become advantageous [82],non_causal
+improved competitiveness [30],reduced demand for commodity [92],non_causal
+increased irregular tide and current and wave data (patterns) [318],decreased investor and consumer confidence [198],non_causal
+increased supplier competition around commodity [95],cheaper FX rate benefits net importer country [32],non_causal
+competitive FX rate benefits net exporter country [49],decreased tourism [175],non_causal
+decreased government spending [174],favorable official(political figurehead) or party elected [262],non_causal
+decrease in price of commodity [91],"government open to foreign IT support, regulations in place [379]",non_causal
+increased cost of transportation (oil) [219],"decrease in government spending (infrastructure, education, public benefits) [114]",non_causal
+dumping by foreign firms at prices below cost [257],lower aggregate supply [176],non_causal
+currency depreciation against US dollar [39],increased irregular geological data [315],non_causal
+decreased government spending [174],lack of respect for authority [196],non_causal
+increasing government and political stability [64],changing market driving the needs for new business model [15],non_causal
+change in business strategy to meet a changing demand [296],disadvantaged FX rate hurts net importer country [396],non_causal
+increasing government and political stability [64],lower profits for local and multinational businesses [101],non_causal
+higher aggregate supply [184],decreased business productivity [270],non_causal
+change in consumer interest and needs [283],easy to repatriate cash [62],non_causal
+changing market driving the needs for new business model [15],decreased government spending [174],non_causal
+self sufficiency to protect from being too exposed (global recession) [261],radical political party or official elected [195],non_causal
+decreased business productivity [270],protecting large declining or bankrupt industries [242],non_causal
+increase cost of burden on multinational data providers [200],increased supplier competition around commodity [95],non_causal
+employee safety [311],maturity of ecosystem and business partners [291],non_causal
+self sufficiency to protect from being too exposed (global recession) [261],decreased talent in workforce [115],non_causal
+exchange rate outlook is negative [42],decreased local protectionism [118],non_causal
+strict environmental regulation [250],promote local business [240],non_causal
+increased government IT spending [332],increased cyber attacks [210],non_causal
+decreased local protectionism [118],increase consumer spending [112],non_causal
+new competitors [2],increased dependency on devices (e.g. IoT) [18],non_causal
+increase in bribery [137],increase in movement of tectonic plates [317],non_causal
+dumping by foreign firms at prices below cost [257],technology products reducing in price [158],non_causal
+request positive balance of trade [368],protecting large declining or bankrupt industries [242],non_causal
+disruptive technologies [152],increased motivation for businesses to outsource work [236],non_causal
+reduced regulations and production quotas on commodities [122],exchange outlook is positive [29],non_causal
+weakening economic environment [309],foreign data providers dominate market [208],non_causal
+increased irregular weather data (patterns) [316],increase in possibility of FCPA violation [189],non_causal
+country in state of war [226],higher international reserves [384],non_causal
+commoditizing of specific technologies [157],potential innovation for substitute or less expensive product [222],non_causal
+local corporations purchasing power increase [335],exchange outlook is positive [29],non_causal
+higher revenue for multinational companies [23],change in consumer interest and needs [283],non_causal
+decrease in corruption [59],temporarily loss of business [314],non_causal
+currency appreciation against US dollar [22],decreasing government and political stability [131],non_causal
+decreased tourism [175],increased competition [166],non_causal
+low price levels of goods and services [26],higher unemployment rates for domestic unskilled workers [237],non_causal
+increased motivation for businesses to outsource work [236],decreased government spending [174],non_causal
+decreased cost of doing business [97],high geographic disaster exposure [319],non_causal
+prolonged economic decline (recession) [106],decreasing trade deficit or increasing surplus [28],non_causal
+decrease in corruption [59],protecting infant industries [245],non_causal
+lower demand for USD [25],decrease in possibility of FCPA violation [65],non_causal
+promote local business and foreign investment [263],increase in tourism [371],non_causal
+change in business strategy [161],increased government spending [183],non_causal
+cost of connecting decreases [159],increases in dependability on devices [169],non_causal
+lack of consumer confidence in data providers [209],maturity of ecosystem and business partners [291],non_causal
+regulators agreement to raise the group's production quota [93],new competitors [2],non_causal
+decrease in corruption [59],talent migrate to other countries [353],non_causal
+favorable law passed [72],increase in price of commodity [214],non_causal
+decreased use of government forces for domestic control [320],unfavorable law passed [135],non_causal
+weakening economic environment [309],increased local protectionism [239],non_causal
+decreasing trade deficit or surplus [185],increase in movement of tectonic plates [317],non_causal
+lower revenue for multinational companies [43],regulators agreement to raise the group's production quota [93],non_causal
+low price levels of goods and services [26],increased interest rate [329],non_causal
+self sufficiency to protect from being too exposed (global recession) [261],unfavorable official(political figurehead) or party elected [134],non_causal
+rising unemployment rates [173],increased government spending [183],non_causal
+offshore services become advantageous [82],reduced tax incentives [404],non_causal
+increased irregular tide and current and wave data (patterns) [318],decrease in consumer and investor spending [108],non_causal
+IT industries funding local initiatives [352],increase in tourism [371],non_causal
+regulators agreement to raise the group's production quota [93],restriction to operate with resources from foreign countries [366],non_causal
+increase in possibility of FCPA violation [189],IT niche competitors operation offshore [348],non_causal
+increase in personal identify theft attacks [212],reduced income [230],non_causal
+increased talent in workforce [77],growing respect for authority [70],non_causal
+discouraged consumer and business behavior [229],lower international reserves to GDP ratio [46],non_causal
+able to analyze market and consumers better [83],regulations allow and support slow decline [243],non_causal
+increased investor and consumer confidence [73],IT industries funding local initiatives [352],non_causal
+increase in innovative funding [155],increased revenue for businesses [113],non_causal
+increased cost of doing business [220],favorable law passed [72],non_causal
+unfavorable official(political figurehead) or party elected [134],cost of connecting decreases [159],non_causal
+decreased use of government forces for domestic control [320],reduced income [230],non_causal
+capital controls (currency volatility) [52],increases exposure to potential security threats [170],non_causal
+substituting or adjacent industries prevailing [94],decreased tariffs on foreign firms [124],non_causal
+decrease in possibility of FCPA violation [65],decreased business productivity [270],non_causal
+decrease in social expenditure [321],local corporations purchasing power increase [335],non_causal
+growing tax revenue [324],low inflation [27],non_causal
+increased programs in support of international trade [127],increases in dependability on devices [169],non_causal
+higher revenue for multinational companies [23],competitive FX rate benefits net exporter country [49],non_causal
+favorable official(political figurehead) or party elected [262],increase in corruption [136],non_causal
+"government open to foreign IT support, regulations in place [379]",cost of connecting decreases [159],non_causal
+reduced tourism [272],increase in investment by businesses [187],non_causal
+local business motivated to cut cost to be more competitive on global market [387],increasing number of multinational players [300],non_causal
+increase ability for smaller domestic providers to become competitive [205],increased competition [166],non_causal
+reduction in business investment [138],increased tariffs on foreign firms [247],non_causal
+higher aggregate supply [184],lower domestic demand [50],non_causal
+change in business strategy to meet a changing demand [296],increase in bribery [137],non_causal
+maturity of ecosystem and business partners [291],increased government spending [183],non_causal
+decreased government spending [174],radical political party or official elected [195],non_causal
+currency appreciation against US dollar [22],business or supplier disruption [306],non_causal
+increasing trade deficit [45],fair justice system [69],non_causal
+market disruptors [168],lower unemployment rates [180],non_causal
+increase consumer spending [112],lower revenue for multinational companies [43],non_causal
+increased programs in support of international trade [127],increased government spending [183],non_causal
+increased cost of transportation (oil) [219],increasing debt levels [47],non_causal
+IT industries funding local initiatives [352],lower aggregate supply [176],non_causal
+reduced income [230],technology products reducing in price [158],non_causal
+increased talent in workforce [77],untapped market for data providers to enter [80],non_causal
+increased irregular tide and current and wave data (patterns) [318],decreased talent in workforce [115],non_causal
+lower unemployment rates [180],increase in personal identify theft attacks [212],non_causal
+clients willing to adopt new platforms at better rates [358],regulators agreement to raise the group's production quota [93],non_causal
+increased threat of terrorism [211],less government protection and funding of domestic firms [119],non_causal
+potential innovation for substitute or less expensive product [222],temporarily loss of business [314],non_causal
+decrease in possibility of FCPA violation [65],lack of consumer confidence in data providers [209],non_causal
+increased risk of cyber attacks [19],increased supplier competition around commodity [95],non_causal
+unfavorable uses of data by providers and businesses [213],currency depreciation against US dollar [39],non_causal
+rapid technological change [292],technology products reducing in price [158],non_causal
+improving social order [76],local corporations purchasing power increase [335],non_causal
+unfavorable official(political figurehead) or party elected [134],potential innovation for substitute or less expensive product [222],non_causal
+shrinking tax income [331],high geographic disaster exposure [319],non_causal
+lack of respect for authority [196],increase in personal identify theft attacks [212],non_causal
+unfair allocation of government budget [133],increased local protectionism [239],non_causal
+decrease in social expenditure [321],increased foreign talent immigration [360],non_causal
+reduced income [230],favorable law passed [72],non_causal
+lower revenue for multinational companies [43],decreased investment by businesses [178],non_causal
+lower unemployment rates [180],more effective and less expensive methods or techniques for getting commodity [99],non_causal
+increase in social expenditure [327],decreasing government and political stability [131],non_causal
+cost of connecting decreases [159],increase consumer spending [112],non_causal
+allows for a fair playing ground for all firms [120],request positive balance of trade [368],non_causal
+increased local protectionism [239],increasing government and political stability [64],non_causal
+call for new social programs [228],demand for more IT infrastructure [372],non_causal
+reduced tax incentives [404],increased business investment and opportunity [179],non_causal
+increased cyber attacks [210],increased motivation for entrepreneurs [109],non_causal
+local corporations purchasing power increase [335],disadvantaged FX rate hurts net exporter country [36],non_causal
+increased revenue for businesses [113],increase in movement of tectonic plates [317],non_causal
+unable to stay competitive globally [89],lower unemployment rates [180],non_causal
+increased irregular geological data [315],lagging behind in technological wave [130],non_causal
+increased innovative culture [110],regulations allow and support slow decline [243],non_causal
+favorable official(political figurehead) or party elected [262],regulators agreement to reduce the production quota [216],non_causal
+foreign data providers dominate market [208],decrease in price of commodity [91],non_causal
+uneven distribution of wealth [197],less government protection and funding of domestic firms [119],non_causal
+growing social tension [103],business or supplier disruption [306],non_causal
+higher international reserves [384],improving social order [76],non_causal
+IT market deceleration or downsize [354],increased dependency on devices (e.g. IoT) [18],non_causal
+increased investor and consumer confidence [73],radical political party or official elected [195],non_causal
+increased foreign direct investment [31],increased risk of cyber attacks [19],non_causal
+weakening economic environment [309],unfair allocation of government budget [133],non_causal
+higher aggregate supply [184],"government open to foreign IT support, regulations in place [379]",non_causal
+increased demand for commodity [215],growing tax revenue [324],non_causal
+growing respect for authority [70],increase consumer spending [112],non_causal
+more effective and less expensive methods or techniques for getting commodity [99],unfair justice system [132],non_causal
+restrictions to clients to expand their businesses infrastructure [252],lower aggregate supply [176],non_causal
+promote local business and foreign investment [263],increase consumer spending [112],non_causal
+change in consumer interest and needs [283],regulators agreement to raise the group's production quota [93],non_causal
+government trying to stimulate economy [90],increased cost of doing business [220],non_causal
+technology products reducing in price [158],high inflation [41],non_causal
+increase in movement of tectonic plates [317],increased competition [166],non_causal
+government trying to stimulate economy [90],increased government IT spending [332],non_causal
+commoditizing of specific technologies [157],decreasing government and political stability [131],non_causal
+less startups and new businesses [248],promote exports [258],non_causal
+increasing debt levels [47],increase consumer spending [112],non_causal
+promote local business and foreign investment [263],higher unemployment rates for domestic unskilled workers [237],non_causal
+technology products reducing in price [158],increases exposure to potential security threats [170],non_causal
+higher unemployment rates for domestic unskilled workers [237],clients willing to adopt new platforms at better rates [358],non_causal
+increased motivation for businesses to outsource work [236],lower demand for USD [25],non_causal
+increase in price of commodity [214],decreasing trade deficit or surplus [185],non_causal
+promote local business [240],favorable law passed [72],non_causal
+unfavorable uses of data by providers and businesses [213],increasing government and political stability [64],non_causal
+talent migrate to other countries [353],IT market expansion [345],non_causal
+decreased business productivity [270],increased demand for commodity [215],non_causal
+increased dependency on devices (e.g. IoT) [18],increase in movement of tectonic plates [317],non_causal
+lower international reserves to GDP ratio [46],decreased cost of doing business [97],non_causal
+dumping by foreign firms at prices below cost [257],increasing government and political stability [64],non_causal
+increased risk of cyber attacks [19],increased talent in workforce [77],non_causal
+untapped market for data providers to enter [80],increase in social expenditure [327],non_causal
+increased cost of transportation (oil) [219],restriction to operate with resources from foreign countries [366],non_causal
+high geographic disaster exposure [319],reduced income [230],non_causal
+low inflation [27],unfavorable law passed [135],non_causal
+liberal politician or party elected [227],increased risk of cyber attacks [19],non_causal
+increased foreign direct investment [31],clients and potential clients need help to comply with privacy [201],non_causal
+increasing number of multinational players [300],"increase in government spending (infrastructure, education, public benefits) [75]",non_causal
+regulations allow and support slow decline [243],unfavorable law passed [135],non_causal
+country in state of war [226],minimum or no black market FX rate [383],non_causal
+increased irregular tide and current and wave data (patterns) [318],shrinking tax income [331],non_causal
+increase in bribery [137],increased motivation for businesses to outsource work [236],non_causal
+conservative politician elected [104],restrictions to clients to expand their businesses infrastructure [252],non_causal
+protecting infant industries [245],restriction to operate with resources from foreign countries [366],non_causal
+decreased cost of doing business [97],market disruptors [168],non_causal
+prolonged economic growth (boom) [225],lower profits for local and multinational businesses [101],non_causal
+dumping by foreign firms at prices below cost [257],drastic increase in taxes [194],non_causal
+increased local protectionism [239],looser capital controls [60],non_causal
+decreased government spending [174],temporarily loss of business [314],non_causal
+over reliance on international trade [259],increased capital controls [193],non_causal
+more profits for businesses [224],increase in infrastructure in 3rd world countries [298],non_causal
+decrease in price of commodity [91],reduced tourism [272],non_causal
+lower unemployment rates [180],increased cost of transportation (oil) [219],non_causal
+reduced tourism [272],growing tax revenue [324],non_causal
+restrictions to clients to expand their businesses infrastructure [252],increases exposure to potential security threats [170],non_causal
+unfavorable uses of data by providers and businesses [213],increase in corruption [136],non_causal
+increased cost of transportation (oil) [219],weakening economic environment [309],non_causal
+rapid technological change [292],increased capital controls [193],non_causal
+unfavorable official(political figurehead) or party elected [134],increase in personal identify theft attacks [212],non_causal
+increased business investment and opportunity [179],rising unemployment rates [173],non_causal
+fair allocation of government budget [68],increase in price of commodity [214],non_causal
+decreased business productivity [270],business or supplier disruption [306],non_causal
+increased interest rate [329],increased local protectionism [239],non_causal
+able to analyze market and consumers better [83],conservative politician elected [104],non_causal
+increase in tourism [371],increased irregular geological data [315],non_causal
+decreasing government and political stability [131],increasing size of IT market [301],non_causal
+lack of business investment and opportunities [172],untapped market for data providers to enter [80],non_causal
+request positive balance of trade [368],dumping by foreign firms at prices below cost [257],non_causal
+increasing number of multinational players [300],lack of respect for authority [196],non_causal
+increased dependency on devices (e.g. IoT) [18],decreasing debt levels [107],non_causal
+increases exposure to potential security threats [170],reduction in business investment [138],non_causal
+protecting infant industries [245],disruptive technologies [152],non_causal
+excessive use of government forces for domestic control [326],conservative politician elected [104],non_causal
+increase in unemployment [403],easy to repatriate cash [62],non_causal
+increased cyber attacks [210],weakening economic environment [309],non_causal
+clients and potential clients need help to comply with privacy [201],strict environmental regulation [250],non_causal
+potential innovation for substitute or less expensive product [222],increased business investment and opportunity [179],non_causal
+decreased investment by businesses [178],decrease in corruption [59],non_causal
+business or supplier disruption [306],increased demand for commodity [215],non_causal
+decreased investor and consumer confidence [198],increased irregular tide and current and wave data (patterns) [318],non_causal
+increase in tourism [371],regulators agreement to reduce the production quota [216],non_causal
+increasing number of IT players [299],reduced demand for commodity [92],non_causal
+radical political party or official elected [195],increase in possibility of FCPA violation [189],non_causal
+increased programs in support of international trade [127],increased competition [166],non_causal
+unfair justice system [132],untapped market for data providers to enter [80],non_causal
+looser capital controls [60],radical political party or official elected [195],non_causal
+increased interest rate [329],broadband Internet becoming more widely available [154],non_causal
+market disruptors [168],decreased government spending [174],non_causal
+decreased business productivity [270],able to analyze market and consumers better [83],non_causal
+self sufficiency to protect from being too exposed (global recession) [261],domestic firms have comparative advantage [246],non_causal
+more profits for businesses [224],decreased investment by businesses [178],non_causal
+increasing budget deficit [328],request positive balance of trade [368],non_causal
+increased revenue for businesses [113],decreasing government and political stability [131],non_causal
+increase cost of burden on multinational data providers [200],reduced risk of net exposed position and local currency deals [343],non_causal
+regulators agreement to reduce the production quota [216],natural disasters [305],non_causal
+increasing number of multinational players [300],restriction to operate with resources from foreign countries [366],non_causal
+increase in personal identify theft attacks [212],"increased speed efficiency, and lower cost [11]",non_causal
+increase in investment by businesses [187],increased irregular geological data [315],non_causal
+restrictions to clients to expand their businesses infrastructure [252],uneven distribution of wealth [197],non_causal
+government trying to stimulate economy [90],lower profits for local and multinational businesses [101],non_causal
+reduced demand for commodity [92],more profits for businesses [224],non_causal
+lower aggregate supply [176],favorable official(political figurehead) or party elected [262],non_causal
+excessive use of government forces for domestic control [326],"increased speed efficiency, and lower cost [11]",non_causal
+lack of business investment and opportunities [172],IT market expansion [345],non_causal
+lower domestic demand [50],restriction to operate with resources from foreign countries [366],non_causal
+reduction in business investment [138],increase in tourism [371],non_causal
+increasing debt levels [47],decreased investor and consumer confidence [198],non_causal
+market disruptors [168],growing tax revenue [324],non_causal
+higher revenue for multinational companies [23],decreased tariffs on foreign firms [124],non_causal
+"increased speed efficiency, and lower cost [11]",increased local protectionism [239],non_causal
+increasing government and political stability [64],outpaced currency black market exchange rate [40],non_causal
+promote local business [240],able to analyze market and consumers better [83],non_causal
+rapid technological change [292],exchange outlook is positive [29],non_causal
+higher demand for partnerships (joint ventures) [254],increased ability to facilitate peer to peer transactions [285],non_causal
+strengthening economic environment [58],local business motivated to cut cost to be more competitive on global market [387],non_causal
+promote local business [240],cost of connecting decreases [159],non_causal
+foreign data providers dominate market [208],increase in tourism [371],non_causal
+higher aggregate demand [182],increased talent in workforce [77],non_causal
+strengthening economic environment [58],increased cost of doing business [220],non_causal
+"increase in government spending (infrastructure, education, public benefits) [75]",employee safety [311],non_causal
+dumping by foreign firms at prices below cost [257],broadband Internet becoming more widely available [154],non_causal
+cheaper FX rate benefits net importer country [32],increasing government and political stability [64],non_causal
+increase in innovative funding [155],decreasing government and political stability [131],non_causal
+reduced regulations and production quotas on commodities [122],increased motivation for entrepreneurs [109],non_causal
+looser capital controls [60],increase in corruption [136],non_causal
+untapped market for data providers to enter [80],lower domestic demand [50],non_causal
+discouraged consumer and business behavior [229],increased investor and consumer confidence [73],non_causal
+decreasing debt levels [107],increased interest rate [329],non_causal
+increased demand for commodity [215],decreased tariffs on foreign firms [124],non_causal
+increased foreign talent immigration [360],government trying to stimulate economy [90],non_causal
+regulators agreement to reduce the production quota [216],IT niche competitors operation offshore [348],non_causal
+rising unemployment rates [173],substituting or adjacent industries prevailing [94],non_causal
+exchange outlook is positive [29],disruptive technologies [152],non_causal
+digital economies growing [160],restrictions to clients to expand their businesses infrastructure [252],non_causal
+increased talent in workforce [77],increase in data privacy regulations [20],non_causal
+more effective and less expensive methods or techniques for getting commodity [99],strict environmental regulation [250],non_causal
+"increase in government spending (infrastructure, education, public benefits) [75]",increase in infrastructure in 3rd world countries [298],non_causal
+increase in infrastructure in 3rd world countries [298],increased ability to facilitate peer to peer transactions [285],non_causal
+decreased tariffs on foreign firms [124],discouraged consumer and business behavior [229],non_causal
+lower unemployment rates [180],outpaced currency black market exchange rate [40],non_causal
+"increase in government spending (infrastructure, education, public benefits) [75]",local corporations purchasing power increase [335],non_causal
+increase ability for smaller domestic providers to become competitive [205],reduced tourism [272],non_causal
+cheaper FX rate benefits net importer country [32],higher demand for partnerships (joint ventures) [254],non_causal
+cheaper FX rate benefits net importer country [32],lower profits for local and multinational businesses [101],non_causal
+fair justice system [69],increase in social expenditure [327],non_causal
+higher international reserves [384],decreased use of government forces for domestic control [320],non_causal
+increased capital controls [193],reduced risk of net exposed position and local currency deals [343],non_causal
+unfavorable official(political figurehead) or party elected [134],outpaced currency black market exchange rate [40],non_causal
+lagging behind in technological wave [130],decreased government spending [174],non_causal
+decrease in price of commodity [91],increased talent in workforce [77],non_causal
+unfair justice system [132],unable to stay competitive globally [89],non_causal
+higher revenue for multinational companies [23],increasing trade deficit [45],non_causal
+domestic firms have comparative advantage [246],radical political party or official elected [195],non_causal
+broadband Internet becoming more widely available [154],increased irregular weather data (patterns) [316],non_causal
+minimum or no black market FX rate [383],decreased investor and consumer confidence [198],non_causal
+changing market driving the needs for new business model [15],radical political party or official elected [195],non_causal
+promote exports [258],foreign data providers dominate market [208],non_causal
+drastic increase in taxes [194],"increased speed efficiency, and lower cost [11]",non_causal
+increase in social expenditure [327],increased capital controls [193],non_causal
+improving social order [76],rapid technological change [292],non_causal
+local business motivated to cut cost to be more competitive on global market [387],decreased government spending [174],non_causal
+"XaaS and digital platforms shorten distribution chain, connecting end users with main service and IT provider directly [378]",increased investor and consumer confidence [73],non_causal
+lower revenue for multinational companies [43],higher international reserves [384],non_causal
+high inflation [41],allows for a fair playing ground for all firms [120],non_causal
+decreased talent in workforce [115],decreased foreign direct investment [88],non_causal
+unfavorable law passed [135],increased demand for commodity [215],non_causal
+decreased talent in workforce [115],decreased local protectionism [118],non_causal
+"government open to foreign IT support, regulations in place [379]",increase ability for smaller domestic providers to become competitive [205],non_causal
+increased demand for commodity [215],IT market expansion [345],non_causal
+promote local business and foreign investment [263],increasing number of IT players [299],non_causal
+more startups and new businesses [126],decreased government spending [174],non_causal
+increased foreign talent immigration [360],increasing trade deficit [45],non_causal
+increased demand for commodity [215],regulators agreement to reduce the production quota [216],non_causal
+rapid technological change [292],increasing number of IT players [299],non_causal
+decreased cost of transportation (oil) [96],increased tariffs on foreign firms [247],non_causal
+increase in data privacy regulations [20],high geographic disaster exposure [319],non_causal
+promote local business and foreign investment [263],self sufficiency to protect from being too exposed (global recession) [261],non_causal
+broadband Internet becoming more widely available [154],IT market deceleration or downsize [354],non_causal
+increasing budget deficit [328],growing tax revenue [324],non_causal
+more profits for businesses [224],increased capital controls [193],non_causal
+lower international reserves to GDP ratio [46],increased talent in workforce [77],non_causal
+promote exports [258],easy to repatriate cash [62],non_causal
+reduced tax incentives [404],decreased foreign direct investment [88],non_causal
+unfair allocation of government budget [133],self sufficiency to protect from being too exposed (global recession) [261],non_causal
+market disruptors [168],decreased tourism [175],non_causal
+increased interest rate [329],higher revenue for multinational companies [23],non_causal
+increases in dependability on devices [169],increase cost of burden on multinational data providers [200],non_causal
+controls to repatriate cash [53],clients and potential clients need help to comply with privacy [201],non_causal
+decreased investor and consumer confidence [198],higher profits for local and multinational businesses [100],non_causal
+country in state of war [226],fair justice system [69],non_causal
+shrinking tax income [331],increased motivation for businesses to outsource work [236],non_causal
+decrease in consumer and investor spending [108],lack of consumer confidence in data providers [209],non_causal
+changing market driving the needs for new business model [15],less government protection and funding of domestic firms [119],non_causal
+decreasing government and political stability [131],reduced demand for commodity [92],non_causal
+increase in personal identify theft attacks [212],able to analyze market and consumers better [83],non_causal
+increased ability to facilitate peer to peer transactions [285],decrease in data privacy regulations [297],non_causal
+decreased government spending [174],change in business strategy to meet a changing demand [296],non_causal
+increased interest rate [329],increase in possibility of FCPA violation [189],non_causal
+increasing size of IT market [301],substituting or adjacent industries prevailing [94],non_causal
+local business motivated to cut cost to be more competitive on global market [387],decreased talent in workforce [115],non_causal
+increased motivation for entrepreneurs [109],decrease in data privacy regulations [297],non_causal
+decreased local protectionism [118],higher aggregate demand [182],non_causal

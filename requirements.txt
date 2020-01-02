@@ -1,0 +1,6 @@
+nltk
+elasticsearch
+pyspark
+pandas
+psutil
+jsonlines
