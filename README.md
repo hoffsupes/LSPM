@@ -1,6 +1,6 @@
 # LSPM
 
-Large Scale Pattern Mining
+Large Scale Pattern Mining / Large Scale Causal Relation Extraction
 
 Takes any corpus / text file with sentences in every line and extracts causal sentences and cause and effects from them. Also creates a network from the same and is able to perform the task of binary causal question answering from it.
 
