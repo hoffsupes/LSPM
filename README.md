@@ -11,12 +11,8 @@ Takes any corpus / text file with sentences in every line and extracts causal se
 - Unzip it and traverse into the root of this repository
 - Open a terminal and execute the following:
     - `python3 crelib/setup_script.py`
-    - 'python3 -c 'import nltk; nltk.download('popular')'
+    - `python3 -c 'import nltk; nltk.download('popular')`
 - input your credentials into the config.py in the crelib folder
-
-## Demo
-
-[![Demo LSPM](https://youtu.be/3MiJYCOGdHg)](https://youtu.be/3MiJYCOGdHg)
 
 ## Usage
 
