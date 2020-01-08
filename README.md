@@ -1,3 +1,8 @@
+
+## Warning
+
+This is not open sourced code, you are not allowed to use it in any way or form for any purposes or reason without explicit permission from Gaurav Dass. Any usage, direct or indirect counts as an infringement of this work. 
+
 # LSPM
 
 Large Scale Pattern Mining / Large Scale Causal Relation Extraction
