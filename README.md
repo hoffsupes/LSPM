@@ -142,7 +142,7 @@ python3 crelib bcqa
 
 Follow the instructions on screen as the program runs. The `index_name` is optional and if not given, default values for it will be used (`cause_effect_testing_pipeline_dev`). The benchmarks folder must be the benchmark folder included in this repository.
 
-### Single Threaded Single Node Standalone End to End Pipeline Module
+### Single Threaded Pipeline Module
 
 Open a terminal and traverse to the root of the codebase / repository and execute:
 
@@ -199,13 +199,6 @@ The library is available for use in your own python program as:
 
 ```
 import crelib
-```
-
-Further usage can be done as:
-
-```
-import crelib
-crelib.setup_script.do_setup_libraries(1); ## Will install all the required libraries
 ```
 
 ## Requirements
