@@ -7,7 +7,7 @@ Takes any corpus / text file with sentences in every line and extracts causal se
 
 ## Installation  
 
-- Make sure you have python3 installed
+- [Make sure you have python3 installed](https://realpython.com/courses/installing-python-windows-macos-linux/)
 - Clone this repo or download it as a zip file
 - Unzip it and traverse into the root of this repository
 - Open a terminal and execute the following:
