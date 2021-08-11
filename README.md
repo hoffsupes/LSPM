@@ -217,4 +217,4 @@ The following libraries are required for running the code
      RequestError(400, 'resource_already_exists_exception', 'index [index_name/----] already exists')
 This is an expected message meaning that the index already exists. The system always tries to automatically create an index when it is given it's name and if it exists it simply continues as normal.
 
-The elasticsearch indices used in the past towards this project might not exist anymore (they were attached to a cluster within the IBM cloud by default). Hence indexing might noe work as expected (especially any default examples) but the rest of the modeules, including causal sentence identification, cause effect extraction and others would do fine. 
+The elasticsearch indices used in the past towards this project might not exist anymore (they were attached to a cluster within the IBM cloud by default). Hence indexing (or anything reliant on elasticsearch) might not work as expected (especially any default examples, unless you input your own elasticsearch credentials) but the rest of the modeules, including causal sentence identification, cause effect extraction and others would do fine. 
