@@ -159,20 +159,6 @@ python3 crelib pipeline input_test_data.txt cleaned_pipeline_test_file.txt causa
 
 The index_name and doctype parameters are optional and if not given, default values for them will be used (`cause_effect_testing_pipeline_dev` and `cause_effect_pairs respectively`). If the index does not exist it will be created.
 
-### Spark version
-
-Warning: Do not use the spark cluster just yet as it has only been successfully tested on a docker spark cluster. There might be certain steps which might be different for you. Especially 'step 4'. This module is just present for testing, do not use it just yet. Although if you can use it on your cluster and give me feedback, it would help a lot. If you are interested in testing this on your side:
-
-1. Running the whole thing: Install all packages within requirements.txt across all executors in your cluster, how you do it depends on your setup
-2. cd into the root of the repository 'commoncrawl-sentence-miner'
-3. Put your test sentences within 'cminer/input_data_list.py'
-4. Open a terminal
-5. WARNING, the following command may not work for you, it was tested on a docker spark cluster
-
-```spark-submit     --master spark://master:7077     --class endpoint --py-files cminer.zip cminer/spark_version.py```
-
-Please refer to the pyspark documentation for what you need to do in step 4.
-
 ### Makefile tests
 
 If you want to test individual modules described above with a single commmand, there's separate functionality for that. Open a terminal and traverse to the root directory of the repository and execute: 
@@ -237,3 +223,5 @@ The following libraries are required for running the code
 
      RequestError(400, 'resource_already_exists_exception', 'index [index_name/----] already exists')
 This is an expected message meaning that the index already exists. The system always tries to automatically create an index when it is given it's name and if it exists it simply continues as normal.
+
+The elasticsearch indices used in the past towards this project might not exist anymore (they were attached to a cluster within the IBM cloud by default). Hence indexing might noe work as expected (especially any default examples) but the rest of the modeules, including causal sentence identification, cause effect extraction and others would do fine. 
